@@ -1,5 +1,5 @@
 # PHP-Output-JavaScript-Object
-Use PHP to output a JavaScript object format 
+Use PHP to output a string according to JavaScript object format\n
 PHP输出JavaScript对象格式的字符串
 
 Exp:
