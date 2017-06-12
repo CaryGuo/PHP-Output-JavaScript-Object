@@ -1,5 +1,6 @@
 # PHP-Output-JavaScript-Object
-Use PHP to output a string according to JavaScript object format\n
+Use PHP to output a string according to JavaScript object format
+
 PHP输出JavaScript对象格式的字符串
 
 Exp:
@@ -20,6 +21,7 @@ Exp:
     }
 
 It will be output a string, like this:
+
 以上代码输出:
 
 {string:"jefja",array:["a",2],num:123}
